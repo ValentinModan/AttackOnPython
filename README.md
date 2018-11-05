@@ -5,7 +5,8 @@
 ## Here we shall write usefull information that could help us work with everything project related 
 
 ## 1. Tutorials
-   1. *How to edit this file:*   
+   1. How to edit this file:   
        1. https://guides.github.com/features/mastering-markdown/
-   2. Github:
+   2. Github Course For Beginners:
        1. https://www.youtube.com/watch?v=SWYqp7iY_Tc
+       2. https://learngitbranching.js.org/
