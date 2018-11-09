@@ -14,12 +14,12 @@
 
 ## 2. Discussion conclusions
 ###      1. Hardware
-####            1. Camera (USB)
-####            2. Baterry (3500 mAh )
-####            3. Three++ laser sensors( VL350/6180)
-####            4. One reduction motor 
-####            5. Encoder (IR Switch)
-####            6. Punte H (L298N)
+####            a. Camera (USB)
+####            b. Baterry (3500 mAh )
+####            c. Three++ laser sensors( VL350/6180)
+####            d. One reduction motor 
+####            e. Encoder (IR Switch)
+####            f. Punte H (L298N)
             
 ###      2. Software
 ####             a. Communication:
