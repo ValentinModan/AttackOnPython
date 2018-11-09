@@ -20,15 +20,20 @@
             4. One reduction motor
             5. Encoder (IR Switch)
             6. Punte H (L298N)
+            
 ###      2. Software
-             a.Communication:
+             a. Communication:
                  1. Raspberry <-> Phone => (Wireless + Socket)
+                 2. Microcontroller <-> Arduino
+                 3. Senor <-> Arduino
+                 4. Motors <-> Arduino
              
-             b.Image processing:
-                  C/C++ processing
-                  1.
-             
-             c.Artificial Intelligence:
+             b. Image processing:
+                  1. Contest processing (C++)
+                  2. Training
+                     a. Neural network  
+                  
+             c. UI Android
 ###      3. Testing
              1.Race track
              2.
