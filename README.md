@@ -23,18 +23,16 @@
             
 ###      2. Software
              a. Communication:
-                 1. Raspberry <-> Phone => (Wireless + Socket)
-                 2. Microcontroller <-> Arduino
-                 3. Senor <-> Arduino
-                 4. Motors <-> Arduino
+                 1. Arduino:    i.Raspberry (Wireless + Socket)
+                                ii.Microcotroller
+                                iii.Senor   
+                                iv.Motors
              
              b. Image processing:
                   1. Contest processing (C++)
                   2. Training
-                     a. Neural network  
+                     a. Neural network (Python) 
                   
              c. UI Android
 ###      3. Testing
              1.Race track
-             2.
-             3.
