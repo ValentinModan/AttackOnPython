@@ -22,17 +22,17 @@
             f. Punte H (L298N)
             
 ###      2. Software
-####             a. Communication:
-#####                 1. Arduino:    i.Raspberry (Wireless + Socket)
+             a. Communication:
+                 1. Arduino:    i.Raspberry (Wireless + Socket)
                                 ii.Microcotroller
                                 iii.Senor   
                                 iv.Motors
              
-####             b. Image processing:
+             b. Image processing:
                   1. Contest processing (C++)
                   2. Training
                      a. Neural network (Python)  
-####             c. UI Android
+             c. UI Android
 ###      3. Testing
              1. Race track
              2. Data to train             
