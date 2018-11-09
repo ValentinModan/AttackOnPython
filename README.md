@@ -14,8 +14,8 @@
 
 ## 2. Discussion conclusions
 ###      1. Hardware
-            1.Camera
-            2.Baterry (3500 mAh )
+            1. Camera
+            2. Baterry (3500 mAh )
             3. Three laser sensors( VL350/6180)
             4. One reduction motor
             5. Encoder (IR Switch)
@@ -25,6 +25,8 @@
                  1. Raspberry <-> Phone => (Wireless + Socket)
              
              b.Image processing:
+                  C/C++ processing
+                  1.
              
              c.Artificial Intelligence:
 ###      3. Testing
