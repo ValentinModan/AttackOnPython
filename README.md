@@ -14,12 +14,12 @@
 
 ## 2. Discussion conclusions
 ###      1. Hardware
-####            a. Camera (USB)
-####            b. Baterry (3500 mAh )
-####            c. Three++ laser sensors( VL350/6180)
-####            d. One reduction motor 
-####            e. Encoder (IR Switch)
-####            f. Punte H (L298N)
+            a. Camera (USB)
+            b. Baterry (3500 mAh )
+            c. Three++ laser sensors( VL350/6180)
+            d. One reduction motor 
+            e. Encoder (IR Switch)
+            f. Punte H (L298N)
             
 ###      2. Software
 ####             a. Communication:
@@ -34,7 +34,7 @@
                      a. Neural network (Python)  
 ####             c. UI Android
 ###      3. Testing
-####             1. Race track
-####             2. Data to train             
-####             3. Video simulated by info
+             1. Race track
+             2. Data to train             
+             3. Video simulated by info
              
