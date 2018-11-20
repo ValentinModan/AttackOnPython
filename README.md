@@ -42,5 +42,5 @@
              3. Video simulated by info
 			 
 ###		4.	Sytem Architecture
-		<img src="/Docs/Images/architecture.jpg">
+ #  <img src="/Docs/Images/architecture.jpg">
              
