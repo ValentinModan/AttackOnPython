@@ -1,7 +1,6 @@
 
  #  AttackOnPython <img src="/Docs/Images/Logo.png" width="50" height="50" >
 
-
 ## Here we shall write usefull information that could help us work with everything project related 
 
 ## 1. Tutorials
@@ -27,10 +26,10 @@
             
 ###      2. Software
              a. Communication:
-                 1. Arduino:    i.Raspberry (Wireless + Socket)
-                                ii.Microcotroller
+                 1. Arduino:    i.  Raspberry (Wireless + Socket)
+                                ii. Microcotroller
                                 iii.Senor   
-                                iv.Motors
+                                iv. Motors
              
              b. Image processing:
                   1. Contest processing (C++)
@@ -41,4 +40,7 @@
              1. Race track
              2. Data to train             
              3. Video simulated by info
+			 
+###		4.	Sytem Architecture
+		<img src="/Docs/Images/architecture.jpg">
              
