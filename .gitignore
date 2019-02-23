@@ -1,0 +1,4 @@
+# Tutorial here -> https://coursework.vschool.io/create-a-gitignore/
+# Don't track folders that are just for learning and testing
+
+practice/
